@@ -19,14 +19,21 @@ https://aladaapp.github.io/salahpashto/
  <a href="#"><img alt="Get it on App Store" 
 	src="https://raw.githubusercontent.com/aladaapp/aladaapp/2768f4434ff098a5fddd982dcdb79c4e53d4f238/assets/svg/badge/badge_app_store_p001_202401.svg" style="padding-left:15px;" width="170" height="70"></a>
 
- * [Latest version release](https://github.com/aladaapp/salahpashto/raw/main/software-release/android-release/app-release%20v1.0.1.apk) (recommended)
+* [Latest version release](https://github.com/aladaapp/salahpashto/raw/main/software-release/android-release/app-release%20v1.0.2.apk) (recommended)
 * [version v1.0.1 apk](https://github.com/aladaapp/salahpashto/raw/main/software-release/android-release/app-release%20v1.0.1.apk)
+* [version v1.0.2 apk](https://github.com/aladaapp/salahpashto/raw/main/software-release/android-release/app-release%20v1.0.2.apk)
 
 ## Change log & updates
 | Version 1.0.1                          |
 | ----------------------------- |
 | Released Date: 3 Feb 2024                  |
 | #Initial Release                  |
+
+| Version 1.0.2                          |
+| ----------------------------- |
+| Released Date: 3 Feb 2024                  |
+| #Initial Release                  |
+| *Added new UI.                  |
 
 ## Developer contact
 [Website](https://freelancermustakin.github.io) <br>
