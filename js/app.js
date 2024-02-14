@@ -62,7 +62,7 @@ function showPrayTimes(lat, long, prayTimes) {
 	var prayerTimes = prayTimes.getTimes(new Date(), [lat, long, 300], +6, 0, '12h');
 
 	var list = ['Fajr', 'Sunrise', 'Dhuhr', 'Asr', 'Sunset', 'Maghrib', 'Isha', 'Midnight'];
-	var listBN = ['سهار', 'لمر پريوتو وقت', 'ماسپښین', 'مازدیګر', 'Sunset', 'ماښام', 'ماخستن', 'نیمه شپه'];
+	var listBN = ['سهار', 'لمر پريوتو وقت', 'ماسپښین/جمعه', 'مازدیګر', 'د لمر پرېوتو وخت', 'ماښام', 'ماخستن', 'نیمه شپه'];
 
 	var html = '<table id="timetable" class="table table-bordered">';
 	var nextPrayerTime;
